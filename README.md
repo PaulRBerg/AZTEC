@@ -31,7 +31,7 @@ AZTEC is maintained as a monorepo with multiple sub packages. Please find a comp
 
 | Package | Version | Description |
 | ------- | ------- | ----------- |
-| [`@aztec/protocol`](/packages/protocol) | [![npm](https://img.shields.io/npm/v/@aztec/protocol.svg)](https://www.npmjs.com/package/@aztec/protocol) | AZTEC solidity smart contracts & tests |
+| [`aztec.js`](/packages/aztec.js) | [![npm](https://img.shields.io/npm/v/aztec.js.svg)](https://www.npmjs.com/package/aztec.js) | An aggregate package combining many smaller utility packages for interacting with the AZTEC Protocol |
 | [`@aztec/contract-addresses`](/packages/contract-addresses) | [![npm](https://img.shields.io/npm/v/@aztec/contract-addresses.svg)](https://www.npmjs.com/package/@aztec/contract-addresses) | A tiny utility library for getting known deployed contract addresses for a particular network |
 
 ### JavaScript Packages
